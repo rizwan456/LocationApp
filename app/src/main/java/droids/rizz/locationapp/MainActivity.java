@@ -320,7 +320,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
             address.add(resultData.getAddressLine(i));
             if (i == 0 || i == 1)
                 //resultData.getAddressLine(i);//city
-                mainBinding.location.setText( resultData.getAddressLine(i));
+                mainBinding.location.setText(resultData.getAddressLine(i));
 
             resultData.getLocality();
             resultData.getAdminArea();

@@ -135,7 +135,7 @@ public class Utility {
 
 
         //image
-        hashMap.put("IMAGE_CROP",1101);
+        hashMap.put("IMAGE_CROP", 1101);
 
 
         return hashMap;

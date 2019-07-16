@@ -1,7 +1,6 @@
 package droids.rizz.locationapp;
 
-public enum Permission
-{
+public enum Permission {
     LOCATION,
     COARSE_LOCATION,
     READ_SMS,
